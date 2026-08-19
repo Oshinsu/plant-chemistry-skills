@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: "plant-chemistry-skills: agent skills linking plant biodiversity to chemistry"
+message: "If you use these skills, please cite this repository."
+type: software
+authors:
+  - family-names: Bissol
+    given-names: Gary Paul
+    affiliation: Byss Group SASU, Fort-de-France, Martinique
+version: 1.0.0
+date-released: "2026-08-18"
+license: MIT
+repository-code: "https://github.com/Oshinsu/plant-chemistry-skills"
+keywords:
+  - agent skills
+  - natural products
+  - metabolomics
+  - taxonomy
+  - biodiversity
+  - research bias
+abstract: >-
+  Six agent skills that connect plant biodiversity data to natural-product
+  chemistry: WCVP name resolution with full synonym expansion, LOTUS chemistry
+  lookup with a blocking golden-record guardrail, GBIF collection effort as a
+  control covariate, public mass-spectrometry repository lookup via Pan-ReDU,
+  natural-product database licensing, and six methodological controls for
+  chemical coverage analysis. The controls encode five false results that were
+  produced and caught during a real analysis of Lesser Antilles flora: tests
+  without statistical power, baselines contaminated by crop species,
+  phylogenetic non-independence inflating p-values by a factor of 1.87 per
+  degree of freedom, occurrence-derived range proxies confounded with
+  collection effort, and hand-made cultivation filters missing most of what
+  they were meant to remove.
+references:
+  - type: article
+    title: >-
+      The LOTUS initiative for open knowledge management in natural products
+      research
+    authors:
+      - family-names: Rutz
+        given-names: Adriano
+    year: 2022
+    journal: eLife
+    doi: 10.7554/eLife.70780
