@@ -1,0 +1,9 @@
+{
+  "name": "plant-chemistry-skills",
+  "version": "1.0.0",
+  "description": "Relier la biodiversite vegetale a la chimie : resolution de noms WCVP, chimie decrite (LOTUS), effort de collecte GBIF, spectres publics (ReDU), et les controles methodologiques qui empechent de publier un faux resultat de couverture.",
+  "author": "Gary Paul Bissol / Byss Group SASU",
+  "license": "MIT",
+  "keywords": ["plants", "natural products", "metabolomics", "taxonomy", "WCVP",
+               "GBIF", "LOTUS", "biodiversity", "research bias", "chemistry"]
+}

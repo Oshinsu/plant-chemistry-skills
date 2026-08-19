@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+*.zip
+
+# donnees sources : a telecharger, jamais a versionner
+wcvp*.csv
+wcvp*.zip
+*.mgf
+*.mzML
+*.mzXML
